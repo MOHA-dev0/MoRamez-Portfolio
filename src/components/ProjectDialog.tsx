@@ -6,6 +6,7 @@ import { motion } from "motion/react";
 
 import { Project } from "../utils/interface";
 import { ExternalLink, Github, XMark } from "./ui/Icons";
+import Image from "next/image";
 
 interface DialogProps {
   selectedProject: Project;
@@ -30,7 +31,7 @@ const ProjectDialog = ({
           >
             <XMark />
           </button>
-          <img
+          <Image
             src={selectedProject.image.url}
             width={1200}
             height={1200}

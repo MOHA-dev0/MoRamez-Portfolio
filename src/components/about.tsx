@@ -7,6 +7,8 @@ import { About as IAbout, Timeline } from "../utils/interface";
 import { OpacityTextReveal, SlideIn, Transition } from "./ui/Transitions";
 import { formatDate } from "../utils";
 
+import Image from "next/image";
+
 interface AboutProps {
   about: IAbout;
   timeline: Timeline[];
@@ -54,7 +56,7 @@ const About = ({ about, timeline }: AboutProps) => {
       <div className="relative">
         <div className="sticky top-6">
           <Transition>
-            <img
+            <Image
               src={about.avatar.url}
               width={400}
               height={400}

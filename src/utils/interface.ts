@@ -54,14 +54,14 @@ export interface Project {
 }
 
 export interface Image {
-  public_id: string;
-  url: string;
+  public_id?: string;
+  url?: string;
 }
 
 export interface SocialHandle {
   platform: string;
   url: string;
-  image: Image;
+  image?: Image;
   enabled: boolean;
   _id: string;
 }
@@ -71,7 +71,7 @@ export interface Service {
   charge: string;
   desc: string;
   enabled: boolean;
-  _id: string;
+  _id?: string;
   image: Image;
 }
 

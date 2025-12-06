@@ -10,6 +10,7 @@ import { ArrowUpRight } from "./ui/Icons";
 import Filters from "./filters";
 import { useVariants } from "../utils/hooks";
 import { SlideIn, Transition } from "./ui/Transitions";
+import Image from "next/image";
 
 interface ProjectsProps {
   projects: Project[];
@@ -152,9 +153,11 @@ const Card = ({ title, image, description }: Project) => {
         </div>
       </div>
       <div className="w-full h-[300px] md:h-[300px] overflow-hidden rounded-xl md:rounded-t-3xl shadow-xl">
-        <img
+        <Image
           src={image.url}
           alt={title}
+          width={300}
+          height={300}
           className="object-cover w-full h-full object-center hover:scale-105 transition-transform duration-700"
         />
       </div>

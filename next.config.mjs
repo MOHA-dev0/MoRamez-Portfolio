@@ -4,19 +4,12 @@ const nextConfig = {
   images: {
     remotePatterns: [
       {
-        hostname: "portfolio-image-store.s3.ap-south-1.amazonaws.com",
-      },
-      {
-        hostname: "image.prntscr.com",
-      },
-      {
-        hostname: "res.cloudinary.com",
-      },
-      {
-        hostname: "iili.io",
+        protocol: "https",
+        hostname: "**",
       },
     ],
   },
 };
 
 export default nextConfig;
+س;

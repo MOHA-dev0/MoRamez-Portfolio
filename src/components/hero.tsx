@@ -8,6 +8,7 @@ import { TextReveal } from "./ui/Typography";
 import { ArrowUpRight } from "./ui/Icons";
 import LoaderWrapper from "./LoaderWrapper";
 import { ArrowDown } from "lucide-react";
+import Image from "next/image";
 
 interface HeroProps {
   about: About;
@@ -23,9 +24,11 @@ const Hero = ({ about }: HeroProps) => {
         <div className="relative h-full w-full">
           <div className="flex items-center justify-center flex-col h-full pb-10">
             <Transition>
-              <img
+              <Image
                 src={about.avatar.url}
                 alt={about.name}
+                width={112}
+                height={112}
                 className="rounded-full size-28 object-cover"
               />
             </Transition>
