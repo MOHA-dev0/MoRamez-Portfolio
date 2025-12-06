@@ -56,7 +56,7 @@ const About = ({ about, timeline }: AboutProps) => {
       <div className="relative">
         <div className="sticky top-6">
           <Transition>
-            <Image
+            <img
               src={about.avatar.url}
               width={400}
               height={400}

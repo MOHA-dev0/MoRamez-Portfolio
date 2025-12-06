@@ -31,7 +31,7 @@ const ProjectDialog = ({
           >
             <XMark />
           </button>
-          <Image
+          <img
             src={selectedProject.image.url}
             width={1200}
             height={1200}

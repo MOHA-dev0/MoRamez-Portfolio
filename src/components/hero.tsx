@@ -24,11 +24,9 @@ const Hero = ({ about }: HeroProps) => {
         <div className="relative h-full w-full">
           <div className="flex items-center justify-center flex-col h-full pb-10">
             <Transition>
-              <Image
+              <img
                 src={about.avatar.url}
                 alt={about.name}
-                width={112}
-                height={112}
                 className="rounded-full size-28 object-cover"
               />
             </Transition>

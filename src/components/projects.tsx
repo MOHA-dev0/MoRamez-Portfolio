@@ -153,11 +153,9 @@ const Card = ({ title, image, description }: Project) => {
         </div>
       </div>
       <div className="w-full h-[300px] md:h-[300px] overflow-hidden rounded-xl md:rounded-t-3xl shadow-xl">
-        <Image
+        <img
           src={image.url}
           alt={title}
-          width={300}
-          height={300}
           className="object-cover w-full h-full object-center hover:scale-105 transition-transform duration-700"
         />
       </div>
