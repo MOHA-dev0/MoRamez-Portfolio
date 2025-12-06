@@ -1,0 +1,457 @@
+{
+  "about": {
+    "name": "MOHAMMAD RAMEZ",
+    "title": "Full-Stack Developer",
+    "subTitle": "Transforming ideas into scalable web applications with modern tech stacks",
+    "description": "Full-Stack Developer with 3+ years of experience specializing in React.js, Next.js, and Node.js. I lead projects from concept to launch, building performant and user-centric solutions. Proven track record in improving system performance by 45%, reducing manual processes by 70%, and delivering mobile-responsive platforms for thousands of users. Passionate about clean architecture, team mentorship, and turning business goals into robust digital products.",
+    "quote": "Life is like code: the best is written clearly",
+    "exp_year": "3",
+    "address": "Istanbul , Türkey",
+    "some_total": "90",
+    "phoneNumber": "+90 552 651 18 27",
+    "contactEmail": "mohammad.uns.02@gmail.com",
+    "avatar": {
+      "public_id": "avatar.webp",
+      "url": "https://iili.io/fIPevbs.md.jpg"
+    },
+    "alternateAvatars": [
+      {
+        "_id": "676e772d8a9e1d0a85353547ca",
+        "public_id": "avatar.webp",
+        "url": "https://iili.io/fIPnkBt.md.jpg"
+      }
+    ]
+  },
+  "usageMetrics": {
+    "visits": 0,
+    "downloads": 0
+  },
+  "_id": "65b3a22c01d900e96c4219ae",
+  "username": "Mohammad Ramez",
+  "email": "mohammad.uns.02@gmail.com",
+  "role": "admin",
+  "timeline": [
+    {
+      "company_name": "Iskenderun Technical University ",
+      "summary": "Bachelor’s in Computer Engineering",
+      "sequence": 0,
+      "startDate": "2021-10-01T00:00:00.000Z",
+      "endDate": "2025-07-01T00:00:00.000Z",
+      "jobTitle": "Bachelor’s in Computer Engineering",
+      "jobLocation": "Iskenderun, Türkey",
+      "bulletPoints": ["GPA: 3.39 | Honors Student"],
+      "forEducation": true,
+      "enabled": true,
+      "_id": "65f1fe900556c3f887e9db94"
+    },
+    {
+      "company_name": "STIKC ",
+      "summary": "Led full-stack development and project management for a tech platform from concept to launch.",
+      "sequence": 1,
+      "startDate": "2025-10-01T00:00:00.000Z",
+      "endDate": "",
+      "jobTitle": "Full-Stack Developer & Project Manager",
+      "jobLocation": "Remote",
+      "bulletPoints": [
+        "Led project development from concept to launch, managing timelines and coordinating tasks.",
+        "Architected and built both backend services and frontend interface.",
+        "Implemented scalable solutions using modern tech stacks."
+      ],
+      "forEducation": false,
+      "enabled": true,
+      "_id": "65f1fe900556c3f887e9db94"
+    },
+    {
+      "company_name": "Bev Team ",
+      "summary": "Frontend development with focus on performance optimization and user experience.",
+      "sequence": 2,
+      "startDate": "2025-08-01T00:00:00.000Z",
+      "endDate": "2025-12-01T00:00:00.000Z",
+      "jobTitle": "Frontend Developer",
+      "jobLocation": "Remote ",
+      "bulletPoints": [
+        "Implemented advanced CSS techniques and optimizations.",
+        "Reduced page load times and improved overall site speed.",
+        "Enhanced responsive design for mobile and desktop users."
+      ],
+      "forEducation": false,
+      "enabled": true,
+      "_id": "65f1fe4e0556c3f887e9db22"
+    },
+    {
+      "company_name": "88ninety ",
+      "summary": "Contributed to a web platform automating employee evaluations and performance insights.",
+      "sequence": 3,
+      "startDate": "2025-06-01T00:00:00.000Z",
+      "endDate": "2025-08-01T00:00:00.000Z",
+      "jobTitle": "Frontend Intern",
+      "jobLocation": "Istanbul, Türkey",
+      "bulletPoints": [
+        "Contributed to a web platform automating biannual employee evaluations.",
+        "Translated Figma designs into responsive React components using Ant Design.",
+        "Collaborated with cross-functional teams to enhance UI quality.",
+        "Developed onboarding guides used by future cohorts."
+      ],
+      "forEducation": false,
+      "enabled": true,
+      "_id": "65f1fe1e0556c3f887e9dab2"
+    },
+    {
+      "company_name": "Digital Skills21 Institution",
+      "summary": "Developed a CMS-powered news platform with significant traffic growth.",
+      "sequence": 4,
+      "startDate": "2025-02-01T00:00:00.000Z",
+      "endDate": "2025-06-01T00:00:00.000Z",
+      "jobTitle": "Web Development Intern",
+      "jobLocation": "Remote",
+      "bulletPoints": [
+        "Developed a CMS-powered news platform with 100+ monthly visitors.",
+        "Achieved 100% mobile responsiveness across all devices.",
+        "Improved content loading speed by 40% through optimization."
+      ],
+      "forEducation": false,
+      "enabled": true,
+      "_id": "65f1fdef0556c3f887e9da44"
+    },
+    {
+      "company_name": "Çelebi Kardeşler Engineering Consultancy",
+      "summary": "Gained experience in multiple frontend/backend projects with focus on code quality.",
+      "sequence": 5,
+      "startDate": "2024-06-01T00:00:00.000Z",
+      "endDate": "2024-09-01T00:00:00.000Z",
+      "jobTitle": "Development Intern",
+      "jobLocation": "Turkey",
+      "bulletPoints": [
+        "Contributed to 3+ frontend/backend projects.",
+        "Decreased bug count by 25% through code review and refactoring.",
+        "Gained experience in full-stack development workflows."
+      ],
+      "forEducation": false,
+      "enabled": true,
+      "_id": "65f1fd9e0556c3f887e9d9d8"
+    },
+    {
+      "company_name": "Solexad",
+      "summary": "Web development with focus on performance optimization and UI enhancement.",
+      "sequence": 6,
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2024-06-01T00:00:00.000Z",
+      "jobTitle": "Web Developer",
+      "jobLocation": "Dubai (Remote)",
+      "bulletPoints": [
+        "Improved website performance by 45% through frontend optimization.",
+        "Enhanced user interface and overall user experience.",
+        "Implemented responsive design principles across all pages."
+      ],
+      "forEducation": false,
+      "enabled": true,
+      "_id": "65b3e93feb20546ae6d46369"
+    }
+  ],
+  "skills": [
+    {
+      "enabled": true,
+      "name": "React.js",
+      "sequence": 1,
+      "_id": "skill_001"
+    },
+    {
+      "enabled": true,
+      "name": "Next.js",
+      "sequence": 2,
+      "_id": "skill_002"
+    },
+    {
+      "enabled": true,
+      "name": "JavaScript",
+      "sequence": 3,
+      "_id": "skill_003"
+    },
+    {
+      "enabled": true,
+      "name": "TypeScript",
+      "sequence": 4,
+      "_id": "skill_004"
+    },
+    {
+      "enabled": true,
+      "name": "Node.js",
+      "sequence": 5,
+      "_id": "skill_005"
+    },
+    {
+      "enabled": true,
+      "name": "Tailwind CSS",
+      "sequence": 6,
+      "_id": "skill_006"
+    },
+    {
+      "enabled": true,
+      "name": "Express.js",
+      "sequence": 7,
+      "_id": "skill_007"
+    },
+    {
+      "enabled": true,
+      "name": "MongoDB",
+      "sequence": 8,
+      "_id": "skill_008"
+    },
+    {
+      "enabled": true,
+      "name": "Git",
+      "sequence": 9,
+      "_id": "skill_009"
+    },
+    {
+      "enabled": true,
+      "name": "GitHub",
+      "sequence": 10,
+      "_id": "skill_010"
+    },
+    {
+      "enabled": true,
+      "name": "Sanity CMS",
+      "sequence": 11,
+      "_id": "skill_011"
+    },
+    {
+      "enabled": true,
+      "name": "Vercel",
+      "sequence": 12,
+      "_id": "skill_012"
+    },
+    {
+      "enabled": false,
+      "name": "C++",
+      "sequence": 13,
+      "_id": "skill_013"
+    }
+  ],
+  "projects": [
+    {
+      "liveurl": "https://stikc.org/",
+      "githuburl": "#",
+      "title": "STIKC Platform",
+      "sequence": 1,
+      "image": {
+        "url": "https://image.prntscr.com/image/P7cq4TDZSeiopuwFxo4Kkw.png"
+      },
+      "description": "Led full-stack development and project management for a tech platform from concept to launch. Architected both backend services and frontend interface, implementing scalable solutions with modern tech stacks.",
+      "techStack": ["Next.js", "Node.js", "Tailwind CSS"],
+      "_id": "proj_001",
+      "enabled": true
+    },
+    {
+      "liveurl": "https://bevsr.com/",
+      "githuburl": "#",
+      "title": "Bev Team Website",
+      "sequence": 2,
+      "image": {
+        "url": "https://image.prntscr.com/image/h03r8kPWTF6j_n-nCgrlDA.png"
+      },
+      "description": "Frontend development with focus on performance optimization. Implemented advanced CSS techniques that reduced page load times and improved overall site speed by 30%.",
+      "techStack": ["Next.js", "CSS"],
+      "_id": "proj_002",
+      "enabled": true
+    },
+    {
+      "liveurl": "https://e-kiralik-mauve.vercel.app",
+      "githuburl": "#",
+      "title": "e-Kiralık Rental Platform",
+      "sequence": 3,
+      "image": {
+        "url": "https://image.prntscr.com/image/68iptoBGQMSB5lWt0jI5KQ.png"
+      },
+      "description": "Full-stack rental platform with e-contracts, automated reminders, and analytics dashboard. Reduced manual paperwork time by 70% and improved communication between tenants and landlords.",
+      "techStack": ["Next.js", "Tailwind CSS", "Appwrite"],
+      "_id": "proj_003",
+      "enabled": true
+    },
+    {
+      "liveurl": "https://mo-directory.vercel.app/",
+      "githuburl": "#",
+      "title": "Mo-Directory Platform",
+      "sequence": 4,
+      "image": {
+        "url": "https://image.prntscr.com/image/DGkCSLsLQMWKOokpDykmMg.png"
+      },
+      "description": "Next.js 15 platform for publishing and exploring scientific/startup ideas. Integrated GitHub authentication, dynamic API content, user profiles, and mobile-friendly UI with Sanity CMS.",
+      "techStack": ["Next.js", "Tailwind CSS"],
+      "_id": "proj_004",
+      "enabled": true
+    },
+    {
+      "liveurl": "https://newshub.solexad.com/",
+      "githuburl": "#",
+      "title": "NewsHub CMS Platform",
+      "sequence": 5,
+      "image": {
+        "url": "https://image.prntscr.com/image/TyADVxsIT7ydukBQUSmERw.png"
+      },
+      "description": "Developed a CMS-powered news platform with 100+ monthly visitors. Achieved 100% mobile responsiveness and improved content loading speed by 40% through optimization techniques.",
+      "techStack": ["Next.js", "Tailwind CSS", "Performance", "CSS"],
+      "_id": "proj_005",
+      "enabled": true
+    },
+    {
+      "liveurl": "https://solexad.com/",
+      "githuburl": "#",
+      "title": "Solexad Website",
+      "sequence": 6,
+      "image": {
+        "url": "https://image.prntscr.com/image/yUwH-9RDRAGTnELBMHrrzw.png"
+      },
+      "description": "Improved website performance by 45% through frontend optimization and UI enhancements. Implemented responsive design and modern user interfaces.",
+      "techStack": ["React.js", "CSS", "JavaScript"],
+      "_id": "proj_006",
+      "enabled": true
+    },
+    {
+      "liveurl": "#",
+      "githuburl": "#",
+      "title": "Employee Evaluation System (Private Project)",
+      "sequence": 8,
+      "image": {
+        "url": "https://iili.io/fIikkUN.md.png"
+      },
+      "description": "Contributed to a web platform that automates biannual employee evaluations and delivers performance insights. Developed onboarding guides used by future cohorts.",
+      "techStack": ["React.js", "Ant Design", "JavaScript"],
+      "_id": "proj_008",
+      "enabled": true
+    }
+  ],
+  "social_handles": [
+    {
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/_86wo",
+      "enabled": true,
+      "_id": "65b3ea4feb20546ae6d4641d"
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/moharam/",
+      "enabled": true,
+      "_id": "65b3e99beb20546ae6d463c2"
+    },
+    {
+      "enabled": true,
+      "platform": "Github",
+      "url": "https://github.com/MOHA-dev0",
+
+      "_id": "65b3e47cb48589dfcae185bd"
+    }
+  ],
+  "services": [
+    {
+      "name": "Complete Website (3 Pages)",
+      "charge": "$200",
+      "desc": "Build a fast, responsive, and modern website of up to 3 pages using Next.js/React. Additional pages or languages can be added for an extra charge.",
+      "enabled": true,
+      "image": {
+        "public_id": "Moramez/website3pages",
+        "url": "https://image.prntscr.com/image/P7cq4TDZSeiopuwFxo4Kkw.png"
+      }
+    },
+    {
+      "name": "Performance & SEO Boost",
+      "charge": "$299",
+      "desc": "Improve website loading speed, technical SEO, search ranking, and overall performance using advanced optimization techniques.",
+      "enabled": true,
+      "image": {
+        "public_id": "Moramez/seo",
+        "url": "https://iili.io/fTVgekv.jpg"
+      }
+    },
+    {
+      "name": "UI/UX Frontend Development",
+      "charge": "$399",
+      "desc": "Convert Figma designs into pixel-perfect, responsive React/Next.js interfaces optimized for speed and visual quality.",
+      "enabled": true,
+      "image": {
+        "public_id": "Moramez/uiux",
+        "url": "https://iili.io/fTVPqZl.md.jpg"
+      }
+    },
+    {
+      "name": "Hosting & Deployment",
+      "charge": "$450",
+      "desc": "Deploy your website or web app with professional hosting setup, domain integration, SSL, CDN optimization, and performance configuration.",
+      "enabled": true,
+      "image": {
+        "public_id": "Moramez/hosting",
+        "url": "https://iili.io/fTWKJX2.th.jpg"
+      }
+    },
+    {
+      "name": "Brand Consultant",
+      "charge": "$499",
+      "desc": "Brand strategy, digital identity direction, and optimization of your business's online presence for maximum impact.",
+      "enabled": true,
+      "image": {
+        "public_id": "Moramez/brand",
+        "url": "https://iili.io/fTWKnmx.th.jpg"
+      }
+    },
+    {
+      "name": "Full Web Application",
+      "charge": "$600",
+      "desc": "Development of a full-stack web application with custom API, dashboard systems, authentication, integrations, and scalable architecture.",
+      "enabled": true,
+      "image": {
+        "public_id": "Moramez/fullwebapp",
+        "url": "https://iili.io/fTWKHzl.th.png"
+      }
+    },
+    {
+      "name": "Global Marketing",
+      "charge": "$699",
+      "desc": "Customized marketing solutions to grow your business globally with research, analytics, content direction, and strategic campaigns.",
+      "enabled": true,
+      "image": {
+        "public_id": "Moramez/globalmarketing",
+        "url": "https://iili.io/fTWnRRe.th.png"
+      }
+    }
+  ],
+
+  "testimonials": [
+    {
+      "image": {
+        "public_id": "testimonials/hasan-kanjo",
+        "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&h=200&q=80"
+      },
+      "name": "Hasan Kanjo",
+      "review": "Working on SOLEXAD Website was exceptional. The team delivered high-quality work on time and transformed complex ideas into a user-friendly platform. Great communication and value-added updates throughout.",
+      "position": "CEO @ SOLEXAD",
+      "enabled": true,
+      "_id": "testimonial_001"
+    },
+    {
+      "image": {
+        "public_id": "testimonials/ahmad-khayt",
+        "url": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&h=200&q=80"
+      },
+      "name": "Ahmad Khayt",
+      "review": "Impressive performance optimization on e-Kiralık platform. The team's techniques significantly reduced page load times while maintaining excellent functionality. A valuable collaboration that raised our technical standards.",
+      "position": "Lead Developer @ e-Kiralık",
+      "enabled": true,
+      "_id": "testimonial_002"
+    },
+    {
+      "image": {
+        "public_id": "testimonials/walid-hanifi",
+        "url": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&h=200&q=80"
+      },
+      "name": "Walid Hanifi",
+      "review": "Bev Team's website performance improved by 30% without compromising design. The responsive redesign boosted our SEO rankings and user experience. Professional team with excellent listening skills.",
+      "position": "Business Owner @ Bev Team",
+      "enabled": true,
+      "_id": "testimonial_003"
+    }
+  ],
+  "createdAt": "2025-12-06T12:14:36.514Z",
+  "updatedAt": "2025-12-06T12:14:36.514Z",
+  "__v": 1,
+  "refreshToken": ""
+}
