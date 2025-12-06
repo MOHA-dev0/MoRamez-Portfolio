@@ -257,7 +257,7 @@
     },
     {
       "liveurl": "https://e-kiralik-mauve.vercel.app",
-      "githuburl": "#",
+      "githuburl": "https://github.com/MOHA-dev0/E-kiralik-FinalProje",
       "title": "e-Kiralık Rental Platform",
       "sequence": 3,
       "image": {
@@ -270,7 +270,7 @@
     },
     {
       "liveurl": "https://mo-directory.vercel.app/",
-      "githuburl": "#",
+      "githuburl": "https://github.com/MOHA-dev0/MO_DIRECTORY",
       "title": "Mo-Directory Platform",
       "sequence": 4,
       "image": {
@@ -283,7 +283,7 @@
     },
     {
       "liveurl": "https://newshub.solexad.com/",
-      "githuburl": "#",
+      "githuburl": "https://github.com/MOHA-dev0/Company-Website.v2",
       "title": "NewsHub CMS Platform",
       "sequence": 5,
       "image": {

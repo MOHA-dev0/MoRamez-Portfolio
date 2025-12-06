@@ -41,12 +41,20 @@ const ProjectDialog = ({
             <div className="flex items-center justify-between">
               <h5 className="text-4xl font-bold">{selectedProject.title}</h5>
               <div className="flex items-center gap-4">
-                <Link href={selectedProject.githuburl}>
-                  <Github />
-                </Link>
-                <Link href={selectedProject.liveurl}>
-                  <ExternalLink />
-                </Link>
+                {selectedProject.githuburl == "#" ? (
+                  <div></div>
+                ) : (
+                  <Link href={selectedProject.githuburl}>
+                    <Github />
+                  </Link>
+                )}
+                {selectedProject.liveurl == "#" ? (
+                  <div></div>
+                ) : (
+                  <Link href={selectedProject.liveurl}>
+                    <ExternalLink />
+                  </Link>
+                )}
               </div>
             </div>
             <div className="py-3 flex items-center gap-4">
