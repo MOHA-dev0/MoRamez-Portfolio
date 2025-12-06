@@ -9,6 +9,7 @@ export const formatDate = (date: string) => {
 
   return { month, year };
 };
+const baseUrl = "http://localhost:3000";
 
 export function constructMetadata({
   title = siteConfig.name,
