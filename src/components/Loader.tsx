@@ -41,7 +41,7 @@ const Loader = ({ setHideLoader }: PageLoadProps) => {
           <Transition transition={{ delay: 0.4 }}>
             <div className="text-3xl md:text-5xl w-full md:w-2/5 whitespace-pre-wrap">
               <OpacityTransition>
-                I Turn Ideas into Stunning Websites that Serve Clients Perfectly
+                Transforming Ideas into Digital Excellence
               </OpacityTransition>
             </div>
           </Transition>

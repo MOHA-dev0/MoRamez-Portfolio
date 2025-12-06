@@ -10,7 +10,7 @@ interface LoaderWrapperProps {
 const LoaderWrapper: React.FC<LoaderWrapperProps> = ({ children }) => {
   const [isLoading, setIsLoading] = useState(true);
 
-  // return <>{isLoading ? <Loader setHideLoader={setIsLoading} /> : children}</>;
+  return <>{isLoading ? <Loader setHideLoader={setIsLoading} /> : children}</>;
   return <>{children}</>;
 };
 
