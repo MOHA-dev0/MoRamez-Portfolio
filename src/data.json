@@ -230,12 +230,25 @@
   ],
   "projects": [
     {
+    "liveurl": "#",
+    "githuburl": "#",
+    "title": "TOMS - Tourism Management SaaS Platform",
+    "sequence": 1,
+    "image": {
+      "url": "/toms.jpg"
+    },
+    "description": "Developed a comprehensive SaaS-based Tourism Management System designed for travel companies to manage quotations, bookings, customers, and service providers in a unified platform. The system includes a powerful admin dashboard for handling pricing offers, reservations, vouchers, cities, hotels, and tourism services. It also supports financial reporting and analytics to help businesses make data-driven decisions and optimize operations. Built with a scalable architecture to support multi-tenant SaaS usage for different tourism agencies.",
+    "techStack": ["Next.js", "Node.js", "Tailwind CSS", "REST API"],
+    "_id": "proj_009",
+    "enabled": true
+  },
+    {
       "liveurl": "https://stikc.org/",
       "githuburl": "#",
       "title": "STIKC Platform",
-      "sequence": 1,
+      "sequence": 2,
       "image": {
-        "url": "https://image.prntscr.com/image/P7cq4TDZSeiopuwFxo4Kkw.png"
+        "url": "/stikc.png"
       },
       "description": "Led full-stack development and project management for a tech platform from concept to launch. Architected both backend services and frontend interface, implementing scalable solutions with modern tech stacks.",
       "techStack": ["Next.js", "Node.js", "Tailwind CSS"],
@@ -246,9 +259,9 @@
       "liveurl": "https://bevsr.com/",
       "githuburl": "#",
       "title": "Bev Team Website",
-      "sequence": 2,
+      "sequence":3,
       "image": {
-        "url": "https://image.prntscr.com/image/h03r8kPWTF6j_n-nCgrlDA.png"
+        "url": "/bevsr.png"
       },
       "description": "Frontend development with focus on performance optimization. Implemented advanced CSS techniques that reduced page load times and improved overall site speed by 30%.",
       "techStack": ["Next.js", "CSS"],
@@ -259,9 +272,9 @@
       "liveurl": "https://e-kiralik-mauve.vercel.app",
       "githuburl": "https://github.com/MOHA-dev0/E-kiralik-FinalProje",
       "title": "e-Kiralık Rental Platform",
-      "sequence": 3,
+      "sequence": 4,
       "image": {
-        "url": "https://image.prntscr.com/image/68iptoBGQMSB5lWt0jI5KQ.png"
+        "url": "/kirlak.png"
       },
       "description": "Full-stack rental platform with e-contracts, automated reminders, and analytics dashboard. Reduced manual paperwork time by 70% and improved communication between tenants and landlords.",
       "techStack": ["Next.js", "Tailwind CSS", "Appwrite"],
@@ -272,9 +285,9 @@
       "liveurl": "https://mo-directory.vercel.app/",
       "githuburl": "https://github.com/MOHA-dev0/MO_DIRECTORY",
       "title": "Mo-Directory Platform",
-      "sequence": 4,
+      "sequence": 5,
       "image": {
-        "url": "https://image.prntscr.com/image/DGkCSLsLQMWKOokpDykmMg.png"
+        "url": "/modirectroy.png"
       },
       "description": "Next.js 15 platform for publishing and exploring scientific/startup ideas. Integrated GitHub authentication, dynamic API content, user profiles, and mobile-friendly UI with Sanity CMS.",
       "techStack": ["Next.js", "Tailwind CSS"],
@@ -285,9 +298,9 @@
       "liveurl": "https://newshub.solexad.com/",
       "githuburl": "https://github.com/MOHA-dev0/Company-Website.v2",
       "title": "NewsHub CMS Platform",
-      "sequence": 5,
+      "sequence": 6,
       "image": {
-        "url": "https://image.prntscr.com/image/TyADVxsIT7ydukBQUSmERw.png"
+        "url": "/newhub.png"
       },
       "description": "Developed a CMS-powered news platform with 100+ monthly visitors. Achieved 100% mobile responsiveness and improved content loading speed by 40% through optimization techniques.",
       "techStack": ["Next.js", "Tailwind CSS", "Performance", "CSS"],
@@ -298,9 +311,9 @@
       "liveurl": "https://solexad.com/",
       "githuburl": "#",
       "title": "Solexad Website",
-      "sequence": 6,
+      "sequence": 7,
       "image": {
-        "url": "https://image.prntscr.com/image/yUwH-9RDRAGTnELBMHrrzw.png"
+        "url": "/solexad.png"
       },
       "description": "Improved website performance by 45% through frontend optimization and UI enhancements. Implemented responsive design and modern user interfaces.",
       "techStack": ["React.js", "CSS", "JavaScript"],
@@ -313,7 +326,7 @@
       "title": "Employee Evaluation System (Private Project)",
       "sequence": 8,
       "image": {
-        "url": "https://iili.io/fIikkUN.md.png"
+        "url": "/88nin.png"
       },
       "description": "Contributed to a web platform that automates biannual employee evaluations and delivers performance insights. Developed onboarding guides used by future cohorts.",
       "techStack": ["React.js", "Ant Design", "JavaScript"],
